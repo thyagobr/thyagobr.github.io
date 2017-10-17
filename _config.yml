@@ -11,6 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thyagobr.github.io"
 twitter_username: thyagobr
 github_username:  thyagobr
+google_analytics: UA-108245567-1
 
 # Build settings
 markdown: kramdown
